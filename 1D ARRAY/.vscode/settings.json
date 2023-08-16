@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.clearPreviousOutput": true
+}
